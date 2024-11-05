@@ -1,3 +1,21 @@
+project guidelines
+
+Created a ToDo Application while using Redux to manage the global state.
+
+Instructions
+
+    Created the following files inside component:
+        Addtask
+        ListTask
+        Task
+    Every task should have the following attributes:Id, description, isDone
+    The user shois now able to:
+        Add a newTodo Task
+        Filter the tasks by (done/not done)
+        Edit a task
+
+Images in the public folder shows these activitates being undertaken.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
