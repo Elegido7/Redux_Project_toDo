@@ -1,0 +1,33 @@
+.app {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(12, 135, 121);
+  width: 80%;
+  padding: 10px;
+  margin: 0 auto;
+  height: auto;
+  align-items: center;
+  color: white;
+}
+.app h1 {
+  color: rgb(225, 243, 33);
+  padding: 10px 0;
+}
+.tasks {
+  padding: 10px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+button {
+  font-size: 15px;
+  margin: 7px;
+  width: auto;
+background-color: yellow;
+border-radius: 8px;
+padding:auto;
+}
+input {
+  padding: 10px;
+  border-radius: 7px;
+}
